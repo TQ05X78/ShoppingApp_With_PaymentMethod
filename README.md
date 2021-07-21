@@ -10,3 +10,4 @@
 ![cart](https://user-images.githubusercontent.com/66067511/126454307-ae44065c-ac70-4b10-abab-204df1509e57.jpg)
 ![AddAddress](https://user-images.githubusercontent.com/66067511/126454753-3f3f739e-5a81-4f88-a58b-ea137ed77417.jpg)
 ![Address](https://user-images.githubusercontent.com/66067511/126454970-9b509ba9-8d54-4a60-a6d3-6edf8a53c285.jpg)
+![Total](https://user-images.githubusercontent.com/66067511/126455231-0fd696a6-e6cd-479b-a263-d082fd956a2b.jpg)
